@@ -1,0 +1,257 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:2:1-60:12
+MERGED from [com.github.chrisbanes:PhotoView:2.1.3] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\PhotoView-2.1.3.aar\9b79d44e64819ab72acbfe554aad7f12\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\d8448f3f843bdbd4e6980d0544b366f8\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\67f0f5e13821562eb8eab525e7ee3f31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d786ba5a69dac1a0f6bbbf45c254fc22\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3255d1e6579e6347b51f56e84902894c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d117a95a94713259c8a6508b56fb0e1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\39534f4b11820cffd376e2b3d74fb9e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c975a01011315b882c94d623d566d320\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\e02516c4f491b4a67b0144286cbb65b1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cd981b1e1860bb71bbdacd79d1b85943\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2ee8c8cfc3bda38f75a1a19db1c440ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\262ae85c646608842923cce155dadc2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb13e6cdef78e65ed484851d1d952c0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0be4bf5ef8acf7e6e575b961d0cc6c45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7527949d5cf978af70a4d025784100cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a7a106acec10a4ccb8e375d2fafd14de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\beb420e147b2f1d6c0abed84a7499949\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\328bbd745e080c5773445904207349a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a36800ac5bba250aaed0e527f92d12ed\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0d9484287758fc527ff272e5c9fa987a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cb9a64b25e1eee44719863cb4181ddff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\588297825438c5ab6fa30bf35f830e16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\791520d532fbbba91a23bb37b6ac2238\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f817f5edf28624e6688468fbb5a5b604\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c3e77dafdc6846e1e212f2d9b4698625\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\49ae3a50daf1ea5235dd264f35516c10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c395c46787f6487d407a63810b72fc25\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b15530f85e22eca7c543329c7f6093f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a215acba49906fda583483938f61e6de\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\124d402fc71d7821339050e12456ce07\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:2:1-60:12
+		INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:2:1-60:12
+		INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:5:5-6:23
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:7:5-8:23
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:9:5-10:23
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:11:5-12:23
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:13:22-74
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:14:5-15:23
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:16:5-17:23
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:18:5-19:23
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:20:5-21:23
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:22:5-24:23
+	tools:ignore
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:23:9-44
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:22:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:25:5-27:23
+	tools:ignore
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:28:5-29:23
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:28:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:30:5-31:23
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:30:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:32:5-34:23
+	tools:ignore
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:33:9-44
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:32:22-70
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:35:5-37:23
+	tools:ignore
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:36:9-57
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:35:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:38:5-39:23
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:38:22-75
+application
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:40:5-58:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\d8448f3f843bdbd4e6980d0544b366f8\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\d8448f3f843bdbd4e6980d0544b366f8\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d786ba5a69dac1a0f6bbbf45c254fc22\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d786ba5a69dac1a0f6bbbf45c254fc22\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\e02516c4f491b4a67b0144286cbb65b1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\e02516c4f491b4a67b0144286cbb65b1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a36800ac5bba250aaed0e527f92d12ed\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a36800ac5bba250aaed0e527f92d12ed\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0d9484287758fc527ff272e5c9fa987a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0d9484287758fc527ff272e5c9fa987a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a36800ac5bba250aaed0e527f92d12ed\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:45:9-35
+	android:label
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:43:9-41
+	android:roundIcon
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:44:9-54
+	android:icon
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:42:9-43
+	android:allowBackup
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:41:9-35
+	android:theme
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:46:9-40
+service#com.kausal.fakerotate.fakeService
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:47:9-68
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:47:18-66
+activity#com.kausal.fakerotate.MainActivity
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:48:9-54:20
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:48:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:52:27-74
+activity#com.kausal.fakerotate.ImageDotActivity
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:55:9-54
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:55:19-51
+activity#com.kausal.fakerotate.ChooseRotateActivity
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:56:9-58
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:56:19-55
+activity#com.kausal.fakerotate.DonateActivity
+ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:57:9-52
+	android:name
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml:57:19-49
+uses-sdk
+INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+MERGED from [com.github.chrisbanes:PhotoView:2.1.3] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\PhotoView-2.1.3.aar\9b79d44e64819ab72acbfe554aad7f12\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.chrisbanes:PhotoView:2.1.3] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\PhotoView-2.1.3.aar\9b79d44e64819ab72acbfe554aad7f12\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\d8448f3f843bdbd4e6980d0544b366f8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\d8448f3f843bdbd4e6980d0544b366f8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\67f0f5e13821562eb8eab525e7ee3f31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\67f0f5e13821562eb8eab525e7ee3f31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d786ba5a69dac1a0f6bbbf45c254fc22\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d786ba5a69dac1a0f6bbbf45c254fc22\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3255d1e6579e6347b51f56e84902894c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3255d1e6579e6347b51f56e84902894c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d117a95a94713259c8a6508b56fb0e1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d117a95a94713259c8a6508b56fb0e1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\39534f4b11820cffd376e2b3d74fb9e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\39534f4b11820cffd376e2b3d74fb9e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c975a01011315b882c94d623d566d320\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c975a01011315b882c94d623d566d320\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\e02516c4f491b4a67b0144286cbb65b1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\e02516c4f491b4a67b0144286cbb65b1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cd981b1e1860bb71bbdacd79d1b85943\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cd981b1e1860bb71bbdacd79d1b85943\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2ee8c8cfc3bda38f75a1a19db1c440ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2ee8c8cfc3bda38f75a1a19db1c440ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\262ae85c646608842923cce155dadc2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\262ae85c646608842923cce155dadc2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb13e6cdef78e65ed484851d1d952c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb13e6cdef78e65ed484851d1d952c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0be4bf5ef8acf7e6e575b961d0cc6c45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0be4bf5ef8acf7e6e575b961d0cc6c45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7527949d5cf978af70a4d025784100cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7527949d5cf978af70a4d025784100cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a7a106acec10a4ccb8e375d2fafd14de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a7a106acec10a4ccb8e375d2fafd14de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\beb420e147b2f1d6c0abed84a7499949\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\beb420e147b2f1d6c0abed84a7499949\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\328bbd745e080c5773445904207349a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\328bbd745e080c5773445904207349a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a36800ac5bba250aaed0e527f92d12ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a36800ac5bba250aaed0e527f92d12ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0d9484287758fc527ff272e5c9fa987a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0d9484287758fc527ff272e5c9fa987a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cb9a64b25e1eee44719863cb4181ddff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cb9a64b25e1eee44719863cb4181ddff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\588297825438c5ab6fa30bf35f830e16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\588297825438c5ab6fa30bf35f830e16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\791520d532fbbba91a23bb37b6ac2238\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\791520d532fbbba91a23bb37b6ac2238\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f817f5edf28624e6688468fbb5a5b604\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f817f5edf28624e6688468fbb5a5b604\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c3e77dafdc6846e1e212f2d9b4698625\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c3e77dafdc6846e1e212f2d9b4698625\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\49ae3a50daf1ea5235dd264f35516c10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\49ae3a50daf1ea5235dd264f35516c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c395c46787f6487d407a63810b72fc25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c395c46787f6487d407a63810b72fc25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b15530f85e22eca7c543329c7f6093f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b15530f85e22eca7c543329c7f6093f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a215acba49906fda583483938f61e6de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a215acba49906fda583483938f61e6de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\124d402fc71d7821339050e12456ce07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kausal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\124d402fc71d7821339050e12456ce07\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kausal\AndroidStudioProjects\FakeRotate2\app\src\main\AndroidManifest.xml

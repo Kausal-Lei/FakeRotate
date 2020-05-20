@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Mar 16 10:49:39 CST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Kausal\\AndroidStudioProjects\\FakeRotate2\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1

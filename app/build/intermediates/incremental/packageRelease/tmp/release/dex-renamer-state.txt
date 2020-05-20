@@ -1,0 +1,4 @@
+#Sat Mar 16 10:49:39 CST 2019
+base.0=C\:\\Users\\Kausal\\AndroidStudioProjects\\FakeRotate2\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

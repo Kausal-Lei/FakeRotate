@@ -1,0 +1,7 @@
+#Fri Mar 15 23:43:00 CST 2019
+base.0=C\:\\Users\\Kausal\\AndroidStudioProjects\\FakeRotate2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Kausal\\AndroidStudioProjects\\FakeRotate2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
